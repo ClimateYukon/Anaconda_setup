@@ -13,7 +13,7 @@ Anaconda 3 installs a lot of useful packages by default in the main environment
 
 `bash Anaconda3-4.3.1-Linux-x86_64.sh`
 
-Answer Yes to every questions, it will create a base repository name anaconda3
+Answer Yes to every questions, it will create a base repository named anaconda3
 
 3. Refresh the bashrc so conda command are recognized
 
@@ -45,7 +45,7 @@ Miniconda 3 install only the essentials packages in the main environment, faster
 
 `bash Miniconda3-latest-Linux-x86_64.sh`
 
-Answer Yes to every questions, it will create a base repository name miniconda3
+Answer Yes to every questions, it will create a base repository named miniconda3
 
 3. Refresh the bashrc so conda command are recognized
 
