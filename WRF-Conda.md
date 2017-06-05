@@ -18,8 +18,8 @@ Answer Yes to every questions, it will create a base repository named anaconda3
 
 `conda create --name WRF numpy scipy xarray`
 
-Since we built Anaconda 3, the default python's version is 3, to get a python 2.7 we can do :
-`conda create --name WRF python==2.7 numpy scipy xarray`
+Since we built Anaconda 3, the default python's version is 3, to get a python 2.7 we can just add:
+`python==2.7` to the conda create command
 
 5. Activate the newly created environment
 
