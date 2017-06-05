@@ -2,7 +2,7 @@ Anaconda 3 installs a lot of useful packages by default in the main environment
 
 1. Download the last anaconda package for the last python 3 :
 
-`wget https://repo.continuum.io/archive/Anaconda3-4.3.1-Linux-x86_64.sh`
+`wget https://repo.continuum.io/archive/Anaconda3-4.4.0-Linux-x86_64.sh`
 
 2. Install the python 3 version of Anaconda (Python 2.7 is still accessible from Anaconda 3):
 
