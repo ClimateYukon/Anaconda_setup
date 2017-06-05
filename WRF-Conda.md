@@ -21,3 +21,6 @@ Answer Yes to every questions, it will create a base repository named anaconda3
 5. Activate the newly created environment
 
 `source activate WRF` (then ipython is accessible)
+
+The virtual environment is now active, to install a new package :
+`conda install package` or if it is not yet inside the anaconda system `pip install package`
