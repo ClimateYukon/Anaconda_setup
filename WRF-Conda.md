@@ -6,7 +6,7 @@ Anaconda 3 installs a lot of useful packages by default in the main environment
 
 2. Install the python 3 version of Anaconda (Python 2.7 is still accessible from Anaconda 3):
 
-`bash Anaconda3-4.3.1-Linux-x86_64.sh`
+`bash Anaconda3-4.4.0-Linux-x86_64.sh`
 
 Answer Yes to every questions, it will create a base repository named anaconda3
 
