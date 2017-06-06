@@ -16,7 +16,7 @@ Answer Yes to every questions, it will create a base repository named anaconda3
 
 4. Create a new virtualenvironment
 
-`conda create --name WRF numpy scipy xarray`
+`conda create --name WRF`
 
 Since we built Anaconda 3, the default python's version is 3, to get a python 2.7 we can just add:
 `python==2.7` to the conda create command
@@ -24,6 +24,7 @@ Since we built Anaconda 3, the default python's version is 3, to get a python 2.
 5. Activate the newly created environment
 
 `source activate WRF` (then ipython is accessible)
+`pip install pandas xarray`
 
 The virtual environment is now active, to install a new package : `conda install package` 
 
