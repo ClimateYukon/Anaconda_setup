@@ -24,6 +24,7 @@ Since we built Anaconda 3, the default python's version is 3, to get a python 2.
 5. Activate the newly created environment
 
 `source activate WRF` (then ipython is accessible)
+
 `pip install pandas xarray`
 
 The virtual environment is now active, to install a new package : `conda install package` 
